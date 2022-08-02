@@ -11,3 +11,5 @@ Traffic from **Virtual Servers** can, or will be sent via the following network(
 Traffic from **Dedicated Servers** can, or will be sent via the following network(s):
 - [AS16276 OVH SAS](https://bgp.he.net/AS16276)
 - [AS24940 Hetzner Online GmbH](https://bgp.he.net/AS24940)
+
+ratio
